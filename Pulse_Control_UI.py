@@ -5,6 +5,12 @@ Created on Sat Mar 22 12:11:03 2025
 @author: ahuss
 """
 
+"""
+Manual Control UI
+Generates csv files using widgets
+to be used with control program
+"""
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import csv
