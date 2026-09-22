@@ -4,6 +4,13 @@ Created on Sun Jul 30 13:25:28 2023
 
 @author: ahuss
 """
+"""
+GPS user interface.
+Used to complete mission waypoints using geospatial coordinate.
+DESIGN IS NOT COMPLETE
+REQUIRES GOOGLE MAPS API KEY TO WORK (line 22)
+"""
+
 
 #things to install prior to running code googlemap and numpy libraries
 import tkinter as tk
